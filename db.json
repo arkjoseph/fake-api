@@ -2,6 +2,7 @@
   "events": [
     {
       "id": 123,
+      "completed": false,
       "category": "animal welfare",
       "title": "Puppy Adoption Day",
       "description": "Find your new feline friend at this event.",
@@ -12,6 +13,7 @@
     },
     {
       "id": 456,
+      "completed": false,
       "category": "food",
       "title": "Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -22,6 +24,7 @@
     },
     {
       "id": 789,
+      "completed": false,
       "category": "sustainability",
       "title": "Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -32,6 +35,7 @@
     },
         {
       "id": 457,
+      "completed": false,
       "category": "food",
       "title": "1 Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -42,6 +46,7 @@
     },
     {
       "id": 799,
+      "completed": false,
       "category": "sustainability",
       "title": "2 Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -52,6 +57,7 @@
     },
         {
       "id": 4599,
+      "completed": false,
       "category": "sustainability",
       "title": "Parking lot cleanup",
       "description": "Help pick up trash along the shore.",
@@ -62,6 +68,7 @@
     },
         {
       "id": 902309,
+      "completed": false,
       "category": "animal welfare",
       "title": "Cat Adoption day",
       "description": "Find your new feline friend at this event.",
@@ -72,6 +79,7 @@
     },
     {
       "id": 45,
+      "completed": false,
       "category": "food",
       "title": "Electronic recycling",
       "description": "Join us as we tend to the community edible plants.",
@@ -82,6 +90,7 @@
     },
     {
       "id": 1723,
+      "completed": false,
       "category": "sustainability",
       "title": "Summer Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -92,6 +101,7 @@
     },
         {
       "id": 4575767,
+      "completed": false,
       "category": "food",
       "title": "Winter Community Gardening",
       "description": "Join us as we tend to the community edible plants.",
@@ -102,6 +112,7 @@
     },
     {
       "id": 797739,
+      "completed": false,
       "category": "sustainability",
       "title": "Spring Beach Cleanup",
       "description": "Help pick up trash along the shore.",
@@ -112,6 +123,7 @@
     },
         {
       "id": 24599,
+       "completed": false,   
       "category": "sustainability",
       "title": "Fall Beach Cleanup",
       "description": "Help pick up trash along the shore.",
